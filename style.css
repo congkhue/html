@@ -1,0 +1,20 @@
+.classheader{
+    color: red;
+    text-align: center;
+}
+/* #classheader{
+
+} */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
